@@ -1,3 +1,1 @@
-Hello Friends 
 
-Welcome to DevOps with AWS Classes ....!!
